@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pxpxpx82@gmail.com",
+    "enableMultiJS": true,
+    "longName": "waniwatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/fish2.png",
+                "name": "FISH2",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/fish1.png",
+                "name": "FISH1",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/wani.png",
+                "name": "WANI",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/mini",
+                "menuIcon": true,
+                "name": "MINIWANI",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "wanich",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5e6ad2c0-9b0f-44bc-8ba3-a9bfef447df8",
+    "versionLabel": "1.12",
+    "watchapp": {
+        "watchface": true
+    }
+}
