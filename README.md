@@ -9,6 +9,6 @@ you can download the app here : https://apps.getpebble.com/en_US/application/570
 <img src="https://www.filepicker.io/api/file/rYhkDRbSQfTS4nPN5y9A/convert?h=180&w=180">
 
 
-##Basalt (Pebble Time or Pebble Time Steel) Edit Delete
+##Basalt (Pebble Time or Pebble Time Steel) 
 
 <img src="https://www.filepicker.io/api/file/85D1OIhOQPuIWh1fUKGQ/convert?h=168&w=144">
