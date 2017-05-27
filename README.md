@@ -1,7 +1,7 @@
 # waniwatch
 
 This is simple Pebble Time watchface with wani which is alligator and will be updated soon with animations.
-you can download the app here : https://apps.getpebble.com/en_US/application/570b8e4d5523d02f2e000021 or https://github.com/mario-kada/waniwatch/blob/master/wanich.pbw
+you can download the app here : https://apps.getpebble.com/en_US/application/570b8e4d5523d02f2e000021 or send and download  https://github.com/mario-kada/waniwatch/blob/master/wanich.pbw with your device
 
 <img src="https://www.filepicker.io/api/file/rYhkDRbSQfTS4nPN5y9A/convert?h=180&w=180">
 
